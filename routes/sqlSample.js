@@ -11,7 +11,7 @@ var config = {
         type: 'default',
         options: {
             userName: 'admin',
-            password: 'Sizume01',
+            password: 'xxxxxx', // 伏せました。
         }
     },
     options: {
